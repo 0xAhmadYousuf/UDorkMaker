@@ -6,7 +6,8 @@ Creating a comprehensive GitHub README.md file for your Python code and its exec
 
 Dork Generator is a Python tool for crafting specialized search queries (dorks) used with search engines or security testing tools, primarily in the field of cybersecurity and ethical hacking. It enables users to generate custom search queries with various operators and symbols to discover specific information or vulnerabilities on the internet.
 
-![Alt text](image.png)
+![image](https://github.com/0xAhmadYousuf/UDorkMaker/assets/139548576/e7daf0de-f8fc-4aca-b35c-3ad74f1c4a00)
+
 
 **Features:**
 
